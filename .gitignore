@@ -1,0 +1,12 @@
+node_modules/
+.DS_Store
+.env
+olx_results.csv
+*.log
+adobe_mac_ssh_key*
+node_modules/
+.DS_Store
+.env
+olx_results.csv
+*.log
+adobe_mac_ssh_key*
